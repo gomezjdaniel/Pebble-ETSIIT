@@ -1,0 +1,17 @@
+{
+  "uuid": "89e2dfe9-9efa-4f1d-b62d-76a6401b33ba",
+  "shortName": "Pebble-ETSIIT",
+  "longName": "Pebble-ETSIIT",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
